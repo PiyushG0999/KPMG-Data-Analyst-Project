@@ -1,2 +1,2 @@
-#KPMG-Data-Analyst-Project
-Analysis of Company data to optimize marketing strategy and promote growth using Excel, Powerpoint & Tableau
+# KPMG-Data-Analyst-Project
+Analysis of Company data to optimise marketing strategy and promote growth using Excel, Powerpoint &amp; Tableau
